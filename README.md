@@ -1,1 +1,1 @@
-# image_quiz
+# for fun project 
